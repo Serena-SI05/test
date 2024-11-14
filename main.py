@@ -1,4 +1,5 @@
-x = int(input('n: '))
+n = int(input('n: '))
+somma = 0
 
-for i in range (x):
-    ...
+for i in range (n):
+    x = int(input('Inserisci numero: '))
